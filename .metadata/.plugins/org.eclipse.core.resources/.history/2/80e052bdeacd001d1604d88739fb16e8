@@ -1,0 +1,31 @@
+package chap98_homework;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class _3_28_basic4 {
+	public static <T> void printArr(List<T> list) {
+		for(int i = 0; i<list.size(); i++) {
+			if(i % 3 == 0) {
+				System.out.println(list.get(i));
+			}
+		}
+	}
+	
+	public static void main(String[] args) {
+		List<Integer> list = new ArrayList<Integer>();
+		list.add(1);
+		list.add(2);
+		list.add(3);
+		list.add(4);
+		list.add(5);
+		list.add(6);
+		list.add(7);
+		list.add(8);
+		list.add(9);
+		list.add(10);
+		
+		printArr(list);
+		
+	}
+}

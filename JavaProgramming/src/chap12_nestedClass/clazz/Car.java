@@ -1,0 +1,22 @@
+package chap12_nestedClass.clazz;
+
+public class Car {
+	public void speedUp() {
+		class Engine {
+			int fuelAmount;
+			
+			public Engine(int fuelAmout) {
+				this.fuelAmount = fuelAmout;
+			}
+			
+			public void useFuelAmount() {
+				this.fuelAmount -= 10;
+			}
+		}
+		
+		Engine eg = new Engine(100);
+		eg.useFuelAmount();
+		
+		System.out.println("연료가 " + eg.fuelAmount +"% 남았습니다.");
+	}
+}
