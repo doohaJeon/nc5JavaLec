@@ -1,0 +1,27 @@
+package one.txt;
+
+import java.util.Scanner;
+
+public class _08_var {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int [] intArr = new int[10];
+		int count = 0;
+			for(int i = 0; i<intArr.length; i++) {
+				int num = sc.nextInt();
+				if(num > 1 && num < 31) {
+					intArr[i] = sc.nextInt();
+				} else {
+					i--;
+					continue;
+				}
+				
+				
+			}
+			
+			
+	
+	}
+}

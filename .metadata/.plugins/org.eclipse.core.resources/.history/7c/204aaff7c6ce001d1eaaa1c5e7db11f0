@@ -1,0 +1,15 @@
+package one.txt;
+
+import java.util.Scanner;
+
+public class control_08 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("정수 2개를 입력해주세요.");
+		int num1 = sc.nextInt();
+		int num2 = sc.nextInt();
+	}
+
+}

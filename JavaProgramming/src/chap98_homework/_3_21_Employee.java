@@ -4,14 +4,14 @@ public abstract class _3_21_Employee {
 	private int eno;
 	private String name;
 	private int pay;
-	private int type;
+	
 	
 	public _3_21_Employee() {};
-	public _3_21_Employee(int eno, String name, int pay, int type) {
+	public _3_21_Employee(int eno, String name, int pay) {
 		this.eno = eno;
 		this.name = name;
 		this.pay = pay;
-		this.type = type;
+		
 	}
 	
 	public int getEno() {
@@ -38,13 +38,7 @@ public abstract class _3_21_Employee {
 		this.pay = pay;
 	}
 
-	public int getType() {
-		return type;
-	}
-
-	public void setType(int type) {
-		this.type = type;
-	}
+	
 
 	public abstract double getMonthPay();
 	

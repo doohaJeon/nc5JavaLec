@@ -6,8 +6,8 @@ public class _3_21_temporaryJob extends _3_21_Employee {
 	
 	public _3_21_temporaryJob() {};
 	
-	public _3_21_temporaryJob(int eno, String name, int pay, int type, int hireYear) {
-		super(eno, name, pay, type);
+	public _3_21_temporaryJob(int eno, String name, int pay,  int hireYear) {
+		super(eno, name, pay);
 		this.hireYear = hireYear;
 		// TODO Auto-generated constructor stub
 	}

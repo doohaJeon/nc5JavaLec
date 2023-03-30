@@ -4,8 +4,8 @@ public class _3_21_fullTimeJob extends _3_21_Employee {
 	
 	int bonus;
 	public _3_21_fullTimeJob() {};
-	public _3_21_fullTimeJob(int eno, String name, int pay, int type, int bonus) {
-		super(eno, name, pay, type);
+	public _3_21_fullTimeJob(int eno, String name, int pay,  int bonus) {
+		super(eno, name, pay);
 		this.bonus = bonus;
 		// TODO Auto-generated constructor stub
 	}

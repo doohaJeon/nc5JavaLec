@@ -1,0 +1,8 @@
+package chap98_homework;
+
+import java.util.List;
+
+public class StudyGroup<T> {
+	private List<T> list = ArrayList<T>();
+	
+}

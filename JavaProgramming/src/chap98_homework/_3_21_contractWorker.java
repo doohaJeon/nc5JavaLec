@@ -6,8 +6,8 @@ public class _3_21_contractWorker extends _3_21_Employee{
 	
 	public _3_21_contractWorker() {};
 	
-	public _3_21_contractWorker(int eno, String name, int pay, int type, int workDay) {
-		super(eno, name, pay, type);
+	public _3_21_contractWorker(int eno, String name, int pay,  int workDay) {
+		super(eno, name, pay);
 		this.workDay = workDay;
 		// TODO Auto-generated constructor stub
 	}

@@ -1,0 +1,17 @@
+package one.txt;
+
+public class _05_cast {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int iNum = 10;
+		long lNum = 20;
+		
+		lNum = iNum;
+		iNum = (int)lNum;
+		
+		System.out.println("iNum의 값 : " + iNum);
+		System.out.println("lNum의 값 : " + lNum);
+	}
+
+}
