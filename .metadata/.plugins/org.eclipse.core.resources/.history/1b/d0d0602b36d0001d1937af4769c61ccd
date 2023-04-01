@@ -1,0 +1,17 @@
+package two.txt;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Collection_Map02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Map<String, Integer>map = new HashMap<String, Integer>();
+		map.put("선지해장국", 7000);
+		map.put("소머리국밥", 8000);
+		map.put("청국장", 6000);
+		map.put("전복삼계탕", 10000);
+	}
+
+}

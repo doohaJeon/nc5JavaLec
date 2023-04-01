@@ -1,0 +1,6 @@
+package two.txt;
+
+public class Book {
+	private String bName;
+	
+}

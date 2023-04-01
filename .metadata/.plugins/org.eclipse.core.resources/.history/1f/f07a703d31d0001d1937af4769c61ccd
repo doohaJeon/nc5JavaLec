@@ -1,0 +1,29 @@
+package two.txt;
+
+public class FreeBoard implements Board {
+
+	@Override
+	public void addMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void setMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void lookAtMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

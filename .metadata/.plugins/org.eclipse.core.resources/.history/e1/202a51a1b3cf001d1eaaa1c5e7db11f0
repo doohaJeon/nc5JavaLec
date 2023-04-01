@@ -1,0 +1,17 @@
+package two.txt;
+
+import java.util.Scanner;
+
+public class Circle {
+	int radius;
+
+	
+	public Circle(int radius) {
+		this.radius = radius;
+	}
+	
+	public double circleArea() {
+		return this.radius * this.radius * 3.14;
+	}
+}
+	

@@ -1,0 +1,36 @@
+package two.txt;
+
+public class FreeBoard implements Board {
+	
+	private long no;
+	private String title;
+	private String content;
+	
+	
+	
+	
+	@Override
+	public void addMessage() {
+		// TODO Auto-generated method stub
+		System.out.println("게시글번호와 제목, 내용을 담고 게시글 등록");
+	}
+
+	@Override
+	public void setMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void lookAtMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

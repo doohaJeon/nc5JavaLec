@@ -1,0 +1,17 @@
+package two.txt;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Collection_Map {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Map<String, String>map = new HashMap<String, String>();
+		map.put("Lion", "사자");
+		map.put("Tiger", "호랑이");
+		map.put("Giraffe", "기린");
+		map.put("Zebra", "얼룩말");
+	}
+
+}

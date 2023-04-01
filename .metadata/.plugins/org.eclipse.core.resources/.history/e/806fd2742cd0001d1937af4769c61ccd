@@ -1,0 +1,5 @@
+package two.txt;
+
+public class CoupangMan extends Alba {
+
+}

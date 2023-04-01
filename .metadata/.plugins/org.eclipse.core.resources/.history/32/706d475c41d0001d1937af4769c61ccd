@@ -1,0 +1,25 @@
+package two.txt;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Collection_Map06 {
+//	List에 정수 10개를 저장하되 중복 값을 1개 이상 포함시키고 Set으로 옮겨서 모든 요소를 출력하세요.
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Integer> list = new ArrayList<Integer>();
+		
+		for(Integer i = 0; i<list.size(); i++) {
+			list.add(i+1);
+			if(i == 9) {
+				list.add(i);
+			}
+			System.out.println(list.get(i));
+		}
+		for(int num : list) {
+			System.out.println(num);
+		}
+		
+	}
+
+}

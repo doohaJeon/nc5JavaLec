@@ -1,0 +1,23 @@
+package two.txt;
+
+public class SoftwareEngineer implements Worker {
+
+	@Override
+	public void attendance() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void leaveWork() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void work() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
