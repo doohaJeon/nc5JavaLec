@@ -20,5 +20,26 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.PrintNumWithoutSync"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.NonSyncThread2"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.NonSyncThread1"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.PrintNumWithSync"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.SyncThread1"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.WhileThread"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.InterruptThread"/>
+    <fullyQualifiedTypeName name="programmersCodingTest.Sequence"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="chap19_multithread._08_nonSyncShareObj"/>
+    <fullyQualifiedTypeName name="chap19_multithread.clazz.AutoSaveThread"/>
+    <fullyQualifiedTypeName name="chap19_multithread._09_syncShareObj"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="chap19_multithread._16_threadPool.PrintThread"/>
+    <fullyQualifiedTypeName name="programmersCodingTest.EvenNumberSum"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="chap20_lambda.clazz.EngAcademy"/>
+    <fullyQualifiedTypeName name="chap20_lambda.clazz.Academy"/>
+    <fullyQualifiedTypeName name="chap21_stream.clazz.HyundaiCar"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
 </qualifiedTypeNameHistroy>
