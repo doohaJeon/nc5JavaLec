@@ -1,8 +1,0 @@
-package two.txt;
-
-public class Cashier extends Alba {
-	
-	public Cashier(int workingHours, int hourlyWage) {
-		super(workingHours, hourlyWage);
-	}
-}

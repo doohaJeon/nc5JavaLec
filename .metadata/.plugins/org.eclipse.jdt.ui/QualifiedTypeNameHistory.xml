@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap17_generic.clazz.BoardFile"/>
-    <fullyQualifiedTypeName name="chap17_generic.clazz.FreeBoard"/>
-    <fullyQualifiedTypeName name="chap17_generic.clazz.NoticeBoard"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="chap18_enum.enums.CusMonth"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="chap18_enum.enums.DefaultMonth"/>
     <fullyQualifiedTypeName name="chap18_enum.enums.ValueMonth"/>
     <fullyQualifiedTypeName name="chap18_enum.enums.RGB"/>
@@ -14,10 +8,8 @@
     <fullyQualifiedTypeName name="chap18_enum.enums.Season"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="chap99_etc.Main"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
     <fullyQualifiedTypeName name="chap19_multithread.clazz.PrintNumWithoutSync"/>
@@ -31,10 +23,7 @@
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="chap19_multithread._08_nonSyncShareObj"/>
     <fullyQualifiedTypeName name="chap19_multithread.clazz.AutoSaveThread"/>
-    <fullyQualifiedTypeName name="chap19_multithread._09_syncShareObj"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
     <fullyQualifiedTypeName name="chap19_multithread._16_threadPool.PrintThread"/>
     <fullyQualifiedTypeName name="programmersCodingTest.EvenNumberSum"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
@@ -42,4 +31,33 @@
     <fullyQualifiedTypeName name="chap20_lambda.clazz.Academy"/>
     <fullyQualifiedTypeName name="chap21_stream.clazz.HyundaiCar"/>
     <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="chap20_lambda.clazz.FourOpCalc"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="chap21_stream._10_flatMap"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.awt.im.InputContext"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.CharArrayReader"/>
+    <fullyQualifiedTypeName name="chap19_multithread._09_syncShareObj"/>
+    <fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.DataInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="chap98_homework.Printer"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="chap22_IO.clazz.Car"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.nio.charset.Charset"/>
 </qualifiedTypeNameHistroy>

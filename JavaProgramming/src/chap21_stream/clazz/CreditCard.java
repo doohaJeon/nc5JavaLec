@@ -29,6 +29,11 @@ public class CreditCard {
 	public void setLimitMoney(int limitMoney) {
 		this.limitMoney = limitMoney;
 	}
+
+	@Override
+	public String toString() {
+		return "CreditCard [company=" + company + ", cardName=" + cardName + ", limitMoney=" + limitMoney + "]";
+	}
 	
 	
 }
